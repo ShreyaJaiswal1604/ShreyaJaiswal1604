@@ -25,7 +25,7 @@ I can describe myself in many ways!
 ### My Coursework :notebook:
 <hr>
 <ul>
-<li> Designing Data Architecture for business Intelligence
+<li> Designing Data Architecture for Business Intelligence
 <li> Data Science Engineering Methods and Tools
 <li> Application Engineering Development
 <li> Data Management and Database Design
