@@ -7,7 +7,7 @@ I'm Shreya Jaiswal, currently a graduate student :mortar_board: at the Northeast
 <hr>
 
 ### About Myself :princess:
-I can describe myslef in many ways!
+I can describe myself in many ways!
 <hr>
 
 
