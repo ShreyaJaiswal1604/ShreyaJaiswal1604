@@ -3,8 +3,7 @@ Hi There! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 Nice to meet you!
 ======================================================================================================================================
 
-My name is Shreya Jaiswal 
----------------
+## My name is Shreya Jaiswal 🙋‍♀️
 I’m currently pursuing my master’s degree in Information Systems at Northeastern University, Boston, MA. With over 2 years of experience as a Data Engineer, I've worked extensively in healthcare and insurance domain, leveraging PySpark, gaining hands on experience with various file formats (XML, JSON, CSV, Parquet), and cloud platforms like AWS and GCP. I’m passionate about automating and integrating large datasets to enhance efficiency and build insightful dashboards. I’m currently exploring and working with Generative AI technologies, including RAG, LLM, and Vector Databases.
 
 * 🧠  I'm exploring Generative AI, and learning new frameworks and technologies
@@ -12,8 +11,11 @@ I’m currently pursuing my master’s degree in Information Systems at Northeas
 * 💼  I'm on the hunt for exciting full-time opportunities
 *  ✉️  You can contact me at [shreya.jaiswal.tech@gmail.com](mailto:shreya.jaiswal.tech@gmail.com)
 
----------------
+***
 
+### My Latest Project Works
+
+***
 ### Socials
 
 <div align="left">
@@ -28,12 +30,7 @@ I’m currently pursuing my master’s degree in Information Systems at Northeas
   </a>
 </div>
 
----------------
-
-### My Latest Project Works
-
----------------
-
+***
 ### My GitHub Stats
 <a href="http://www.github.com/ShreyaJaiswal1604"><img src="https://github-readme-stats.vercel.app/api?username=ShreyaJaiswal1604&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ShreyaJaiswal1604's GitHub stats" /></a>
 <div align="left">
@@ -42,10 +39,7 @@ I’m currently pursuing my master’s degree in Information Systems at Northeas
   <img src="https://raw.githubusercontent.com/ShreyaJaiswal1604/ShreyaJaiswal1604/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
-
----------------
-
+***
 ### Skills
 <div align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
@@ -136,18 +130,17 @@ I’m currently pursuing my master’s degree in Information Systems at Northeas
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyajaiswal1604&label=Profile%20views&color=0e75b6&style=flat" alt="shreyajaiswal1604" /> </p>
 
----------------
 
-# Blog posts
+***
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Insights into Global Health: Analyzing and Predicting Life Expectancy with WHO Dataset](https://medium.com/@shreyajaiswal1604/insights-into-global-health-analyzing-and-predicting-life-expectancy-with-who-dataset-3eef61f8dc4c?source=rss-313429f3e65------2)
 <!-- BLOG-POST-LIST:END -->
 
----------------
-
+***
 ### Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyajaiswal1604" alt="shreyajaiswal1604" /></a> </p>
 
 
 
----------------
+***
