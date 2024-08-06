@@ -5,7 +5,7 @@ Nice to meet you!
 
 My name is Shreya Jaiswal 
 ---------------
-I’m currently pursuing my master’s degree in Information Systems at Northeastern University, Boston, MA. With over 2 years of experience as a Data Engineer, I've worked extensively in healthcare and insurance domain, leveraging PySpark, gaining hands on expereince with various file formats (XML, JSON, CSV, Parquet), and cloud platforms like AWS and GCP. I’m passionate about automating and integrating large datasets to enhance efficiency and build insightful dashboards. I’m currently exploring and working with Generative AI technologies, including RAG, LLM, and Vector Databases.
+I’m currently pursuing my master’s degree in Information Systems at Northeastern University, Boston, MA. With over 2 years of experience as a Data Engineer, I've worked extensively in healthcare and insurance domain, leveraging PySpark, gaining hands on experience with various file formats (XML, JSON, CSV, Parquet), and cloud platforms like AWS and GCP. I’m passionate about automating and integrating large datasets to enhance efficiency and build insightful dashboards. I’m currently exploring and working with Generative AI technologies, including RAG, LLM, and Vector Databases.
 
 * 🧠  I'm exploring Generative AI, and learning new frameworks and technologies
 * 🤝  I'm open to collaborating on innovative projects for impactful solutions
