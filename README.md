@@ -39,13 +39,8 @@ I’m currently pursuing my master’s degree in Information Systems at Northeas
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=ShreyaJaiswal1604&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreyaJaiswal1604&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/ShreyaJaiswal1604/ShreyaJaiswal1604/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ShreyaJaiswal1604/ShreyaJaiswal1604/output/snake.svg" alt="Snake animation" />
 
 ###
 
