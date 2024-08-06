@@ -140,6 +140,7 @@ I’m currently pursuing my master’s degree in Information Systems at Northeas
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Insights into Global Health: Analyzing and Predicting Life Expectancy with WHO Dataset](https://medium.com/@shreyajaiswal1604/insights-into-global-health-analyzing-and-predicting-life-expectancy-with-who-dataset-3eef61f8dc4c?source=rss-313429f3e65------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---------------
