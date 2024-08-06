@@ -138,7 +138,7 @@ I’m currently pursuing my master’s degree in Information Systems at Northeas
 
 ---------------
 
-### Blogs Posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
