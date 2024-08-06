@@ -9,7 +9,7 @@ I’m currently pursuing my master’s degree in Information Systems at Northeas
 
 * 🧠  I'm exploring Generative AI, and learning new frameworks and technologies
 * 🤝  I'm open to collaborating on innovative projects for impactful solutions
-* 💼  I'm Open to exciting full-time opportunities
+* 💼  I'm on the hunt for exciting full-time opportunities
 *  ✉️  You can contact me at [shreya.jaiswal.tech@gmail.com](mailto:shreya.jaiswal.tech@gmail.com)
 
 ---------------
@@ -30,7 +30,7 @@ I’m currently pursuing my master’s degree in Information Systems at Northeas
 
 ---------------
 
-### My latest Project Works
+### My Latest Project Works
 
 ---------------
 
@@ -143,7 +143,7 @@ I’m currently pursuing my master’s degree in Information Systems at Northeas
 
 ---------------
 
-### Blogs posts
+### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
